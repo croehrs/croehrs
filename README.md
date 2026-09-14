@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- 🔭 Ich baue gerade **[Elektrotechnik visuell & interaktiv](https://croehrs.github.io/elektrotechnik-interaktiv/)** — eine interaktive Lernwebsite mit Simulationen zu Kirchhoff'schen Regeln, RC-Gliedern, Induktion und mehr, für meine Übungsgruppe in Elektrotechnik I
+
 <!--
 **croehrs/croehrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
